@@ -48,7 +48,7 @@
         $percentage1 = ($total1 * 100)/500;
 
         if($percentage1 >= 60){
-            $division1 = "Fisrt";
+            $division1 = "First";
         }
         else if($percentage1 >= 45 && $percentage1 < 60){
             $division1 = "Second";
@@ -70,7 +70,7 @@
 
         $division2;
         if($percentage2 >= 60){
-            $division2 = "Fisrt";
+            $division2 = "First";
         }
         else if($percentage2 >= 45 && $percentage2 < 60){
             $division2 = "Second";
