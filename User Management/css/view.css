@@ -1,0 +1,15 @@
+body{
+    background-image: url('https://i.ibb.co/hXm7W0T/elements.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: #000000;
+    /* font-weight: bold; */
+    /* font-family:  serif; */
+    font-weight: 700;
+    font-style: italic;
+}
+
+.rows{
+    box-shadow: #87CEEB 0px 2px 5px 0px, #87CEEB 0px 1px 1px 0px;
+}
